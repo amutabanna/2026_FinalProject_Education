@@ -1,2 +1,5 @@
 # 2026_FinalProject_Education
-Repository for Spring 2026 FDS 2 final group project focused on data in education.
+This is our final project for PSY 371F! Our group members are Aidan Cournoyer, Aziz Mutabanna, and Casey-Ray Willingham.
+
+We're still deciding what we want to work with, but we're debating between book banning and literacy rates, or how different variables affect the percieved purpose of education around the world.
+
